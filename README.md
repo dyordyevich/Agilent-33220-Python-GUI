@@ -2,6 +2,8 @@
 
 With this program user can control Agilent 33220A signal generator.
 
+Python 2
+
 Main script is program.py:<br>
 -program.py<br>
 -connection.py<br>
